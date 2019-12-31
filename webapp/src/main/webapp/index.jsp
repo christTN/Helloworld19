@@ -2,7 +2,6 @@
 <h2> Data Service Group is your learning partner </h2>
 <h2> Glad to see you here </h2>
 <<<<<<< HEAD
-<h1> Good job Serge on learning Devops</h1>
 
 <h1> FINALLY I CAN SEE MY DEPLOYMENT ON MY DOCKER CONTAINER OOUUUUFFFFF!!!! </h1>
 =======
