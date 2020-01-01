@@ -3,8 +3,13 @@
 <h2> Glad to see you here </h2>
 
 <h1> FINALLY I CAN SEE THE DEPLOYMENT ON MY DOCKER CONTAINER OOUUUUFFFFF!!!! </h1>
-=======
+
+
 <h1> Good job CHRISTELLE NONO KEN on learning Devops</h1>
+
 <h1> please cHRISTELLE enjoyDevops</h1>
 
 <h1> Hope it will works this time, this is wierd, two days? let's get to work</h1>
+
+<h1> Done with that project till ansible to docker. Yeaaaahhhhhhhhh, I made it before 2020. I like the technology. </h1>
+
